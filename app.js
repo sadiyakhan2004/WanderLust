@@ -69,7 +69,7 @@ const sessionOptions = {
     }
 };
 
-app.get("https://wanderlust-42ul.onrender.com",(req,res)=>{
+app.get("/",(req,res)=>{
     res.redirect("/listings");
 });
 
