@@ -1,18 +1,13 @@
-# 1. Clone the repository
-git clone <your-repo-url>
+<!--
+To run locally:
 
-# 2. Navigate into the project folder
-cd WanderLust
+1. cd wanderlust
+2. npm install
+3. node app.js / nodemon app.js
+4. Make sure MongoDB is running
+5. Visit http://localhost:8080
+-->
+## 🔗 Live Demo
+You can check out the live version here:  
+[Click to View Project](https://wanderlust-42ul.onrender.com)
 
-# 3. Install all dependencies
-npm install
-
-# 4. Make sure MongoDB is running (locally or via MongoDB Atlas)
-
-# 5. Start the server
-node app.js
-# OR (for auto-restart during development)
-nodemon app.js
-
-# 6. Visit the application in your browser
-http://localhost:8080
