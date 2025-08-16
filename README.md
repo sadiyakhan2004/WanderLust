@@ -1,13 +1,24 @@
-<!--
-To run locally:
+# 🌍 Wanderlust: Airbnb Replica
 
-1. cd wanderlust
-2. npm install
-3. node app.js / nodemon app.js
-4. Make sure MongoDB is running
-5. Visit http://localhost:8080
--->
-## 🔗 Live Demo
-You can check out the live version here:  
-[Click to View Project](https://wanderlust-42ul.onrender.com)
+A full-stack web application to browse and book accommodations, with features like user authentication, filtering, and reviews.
+
+---
+
+## 🚀 Features
+- User authentication and profile management  
+- Browse, filter, and book listings  
+- Add and read reviews  
+- Responsive UI with Bootstrap  
+
+---
+
+## ▶️ Live Demo
+Check it out here: [https://wanderlust-42ul.onrender.com](https://wanderlust-42ul.onrender.com)
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
 
